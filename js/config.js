@@ -54,26 +54,26 @@ const API_SITES = {
         detail: 'https://heimuer.tv',
     },
     zy360: {
-        api: 'https://360zy.com/api.php/provide/vod'，
+        api: 'https://360zy.com/api.php/provide/vod',
         name: '360资源',
     },
     iqiyi: {
-        api: 'https://www.iqiyizyapi.com/api.php/provide/vod'，
-        name: 'iqiyi资源'，
-    }，
+        api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
+        name: 'iqiyi资源',
+    },
     wolong: {
         api: 'https://wolongzyw.com/api.php/provide/vod',
         name: '卧龙资源',
-    }， 
+    },
     hwba: {
         api: 'https://cjhwba.com/api.php/provide/vod',
         name: '华为吧资源',
-    }，
+    },
     jisu: {
         api: 'https://jszyapi.com/api.php/provide/vod',
         name: '极速资源',
         detail: 'https://jszyapi.com', 
-    }，
+    },
     dbzy: {
         api: 'https://dbzy.tv/api.php/provide/vod',
         name: '豆瓣资源',
@@ -119,6 +119,7 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     },
+    //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
 // 定义合并方法
